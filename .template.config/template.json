@@ -9,5 +9,10 @@
     "language": "C#",
     "type": "project"
   },
-  "sourceName": "API-CleanArquitecture-Template"
+  "sourceName": "API-CleanArquitecture-Template",
+"sources": [
+    {
+      "exclude": [ ".git/**", ".vs/**", "**/bin/**", "**/obj/**" ]
+    }
+  ]
 }
