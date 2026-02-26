@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "MaximoCavallotto",
+  "classifications": [ "Web", "WebAPI", "Clean Architecture" ],
+  "name": "Clean Architecture Base Template",
+  "identity": "Mi.Clean.Architecture",
+  "shortName": "clean-arch",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "API-CleanArquitecture-Template"
+}
